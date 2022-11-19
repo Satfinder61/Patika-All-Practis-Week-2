@@ -23,3 +23,6 @@
 <br>Suggest the "Picnic" event if the temperature is between 15 and 25.
 <br>Suggest the "Swimming" event if the temperature is greater than 25.
 <br>Find different solutions in how else the if conditions could be created on the same example.*/
+
+# Sorting Numbers from Largest to Smaller by Ihsan Melih Sisman
+<br> It Sorts the 3 entered numbers from smallest to largest.
