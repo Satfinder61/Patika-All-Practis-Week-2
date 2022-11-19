@@ -14,3 +14,12 @@
 <br> Courses: Mathematics, Physics, Turkish, Chemistry, Music
 <br> Passing Grade : 55
 <br> If the course grades entered are not between 0 or 100, they should not be included in the average.
+
+# Suggesting Events Based on Air Temperature by Ihsan Melih Sisman
+<br>Conditions :
+
+<br>Suggest to "Ski" if the temperature is less than 5.
+<br>Suggest the "Cinema" event if the temperature is between 5 and 15.
+<br>Suggest the "Picnic" event if the temperature is between 15 and 25.
+<br>Suggest the "Swimming" event if the temperature is greater than 25.
+<br>Find different solutions in how else the if conditions could be created on the same example.*/
