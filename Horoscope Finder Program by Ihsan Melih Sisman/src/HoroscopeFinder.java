@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class HoroscopeFinder {
     public static void main(String[] args) {
 
+        // It Finds your horoscope from the entered birth date using if-else.
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Doğduğunuz ayı giriniz: ");

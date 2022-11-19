@@ -4,7 +4,7 @@ public class SortingNumberSmallestToLargest {
     public static void main(String[] args) {
 
         // It Sorts the 3 entered numbers from smallest to largest.
-        
+
         Scanner scanner = new Scanner(System.in);
 
 
