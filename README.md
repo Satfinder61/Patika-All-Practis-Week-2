@@ -26,3 +26,6 @@
 
 # Sorting Numbers from Largest to Smaller by Ihsan Melih Sisman
 <br> It Sorts the 3 entered numbers from smallest to largest.
+
+# Horoscope Finder Program by Ihsan Melih Sisman
+It Finds your horoscope from the entered birth date using if-else.
